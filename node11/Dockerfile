@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:11.2
 
 ENV CHROME_BIN /usr/bin/google-chrome-stable
 
